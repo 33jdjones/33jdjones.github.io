@@ -1,5 +1,3 @@
-# 33jdjones.github.io
-Jasmine's Portfolio 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -68,7 +66,7 @@ Jasmine's Portfolio
 <body>
   <header>
     <h1>Jasmine Jones</h1>
-    <p>Data Science Student · Future Data Engineer</p>
+    <p>Data Science Student · Aspiring Data Engineer</p>
     <nav>
       <a href="#about">About Me</a>
       <a href="#portfolio">Portfolio</a>
@@ -84,11 +82,10 @@ Jasmine's Portfolio
         My name is Jasmine Jones, and I am currently a junior at the University of North Carolina at Charlotte pursuing a Bachelor of Science in Data Science.
         I chose this field because data is present in every situation, and I’ve always been driven by the need to understand the “why” behind patterns, decisions, and outcomes. 
         My long‑term goal is to become a data engineer, where I can build the systems and pipelines that make meaningful analysis possible.
-
       </p>
       <p>
-        Outside of school, I balance a full‑time job and life as a full‑time mom of three. In my free time, 
-        I enjoy baking and taking on DIY projects anything that lets me be creative and hands‑on.
+        Outside of school, I balance a full‑time job and life as a full‑time mom of three. 
+        In my free time, I enjoy baking and taking on DIY projects anything that lets me be creative and hands‑on.
       </p>
     </section>
 
@@ -111,25 +108,43 @@ Jasmine's Portfolio
 
       <article>
         <div class="post-title">
-          Why Learning Data Science in Social and Interdisciplinary
+          Why Learning Data Science in Social and Interdisciplinary Contexts Matters
         </div>
         <div class="post-meta">
           Introductory Reflection · Spring 2026
         </div>
         <p>
-         
-    Learning data science isn’t just about math, coding, or charts. It’s about understanding people and the choices they make. 
-    Data comes from real people, real communities, and real systems. Because of that, it’s important to know what information is being collected, who is included, and who might be left out.
-
+          Learning data science isn’t just about math, coding, or charts. It’s about understanding people and the choices they make. 
+          Data comes from real people, real communities, and real systems. Because of that, it’s important to know what information
+          is being collected <em>Who is represented?</em> 
+          <em>Who is missing?</em> and <em>Who is affected by the decisions we make with data?</em>
         </p>
         <p>
-          When you study data science this way, you learn how to use data responsibly. Numbers don’t tell the full story on their own. They represent real lives and real decisions. To understand data correctly, you need to think about context, fairness, and the bigger picture.
+          Modeling social topics and people can be powerful. It can help us see patterns that are
+          hard to notice in everyday life, like inequalities in access to education, health care,
+          or housing. It can reveal where systems are failing certain groups and where resources
+          are needed most. But the same models can also reinforce stereotypes, overlook important
+          nuance, or be used to justify unfair decisions if we are not careful about how they are
+          built and interpreted. That tension is exactly why context matters so much.
         </p>
         <p>
-          Many real-world problems, like issues in health care, education, and business, are shaped by human behavior and social systems. Looking at data with this understanding helps reduce bias, ask better questions, and make smarter, fairer decisions.
+          Using data about people comes with serious responsibilities. At a basic level, there is
+          the responsibility to protect privacy and handle sensitive information with care. Beyond
+          that, there is a responsibility to question where the data came from, whose voices are
+          included, and what biases might already be baked into the numbers. It is not enough for
+          a model to be accurate on paper if it harms real people in practice. As a future data
+          professional, I have to remember that every row in a dataset can represent someone’s
+          life, not just a value to optimize.
         </p>
         <p>
-          As a data science student juggling work, school, and family, I see how data-driven decisions can directly impact people’s lives. Learning data science with ethics in mind helps me think critically and create solutions that help people, not just look good on paper.
+          Through this course, I hope to better understand how to connect technical skills with
+          ethical and social awareness. I want to learn how to ask better questions before I even
+          start coding: What problem are we really trying to solve? Who benefits from this model,
+          and who might be left out or harmed by it? I am also interested in how insights from
+          other disciplines—like sociology, psychology, and ethics—can shape the way we design
+          data systems and interpret results. Ultimately, I want my work in data science to be
+          not only technically strong, but also thoughtful, responsible, and grounded in the
+          realities of people’s lives.
         </p>
       </article>
     </section>
